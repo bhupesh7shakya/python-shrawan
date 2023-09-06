@@ -1,4 +1,4 @@
 # python-shrawan
 
 Login feature
-with 2 factor authentication
+with 2 factor authentication with google and facbook signin 
